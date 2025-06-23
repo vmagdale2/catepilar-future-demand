@@ -1,0 +1,9 @@
+cat_idx,cat_code,cat_desc,cat_indent
+1,APERMITS,Annual Rate for Housing Units Authorized in Permit-Issuing Places,0
+2,PERMITS,Housing Units Authorized in Permit-Issuing Places,0
+3,AUTHNOTSTD,Housing Units Authorized But Not Started,0
+4,ASTARTS,Annual Rate for Housing Units Started,0
+5,STARTS,Housing Units Started,0
+6,UNDERCONST,Housing Units Under Construction,0
+7,ACOMPLETIONS,Annual Rate for Housing Units Completed,0
+8,COMPLETIONS,Housing Units Completed,0

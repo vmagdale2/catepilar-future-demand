@@ -1,0 +1,7 @@
+et_idx,err_code,err_desc,err_unit
+1,E_T,Relative Standard Error for Total Construction,PCT
+2,E_V,Relative Standard Error for Total Private Construction,PCT
+3,E_P,Relative Standard Error for Total Public Construction,PCT
+4,E_MPCT,Relative Standard Error for MPC Total Construction,PCT
+5,E_MPCV,Relative Standard Error for MPC Total Private Construction,PCT
+6,E_MPCP,Relative Standard Error for MPC Total Public Construction,PCT

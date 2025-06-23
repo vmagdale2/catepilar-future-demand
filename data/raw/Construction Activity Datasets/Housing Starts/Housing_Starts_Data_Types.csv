@@ -1,0 +1,4 @@
+dt_idx,dt_code,dt_desc,dt_unit
+1,TOTAL,Total Units,K
+2,SINGLE,Single-family Units,K
+3,MULTI,Units in Buildings with 5 Units or More,K

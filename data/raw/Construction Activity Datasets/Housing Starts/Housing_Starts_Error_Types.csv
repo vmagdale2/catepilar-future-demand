@@ -1,0 +1,4 @@
+et_idx,err_code,err_desc,err_unit
+1,E_TOTAL,Relative Standard Error for Total Units,PCT
+2,E_SINGLE,Relative Standard Error for Single-family Units,PCT
+3,E_MULTI,Relative Standard Error for Units in Buildings with 5 Units or More,PCT

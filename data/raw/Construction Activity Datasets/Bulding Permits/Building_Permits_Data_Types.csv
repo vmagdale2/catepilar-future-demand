@@ -1,0 +1,7 @@
+dt_idx,dt_code,dt_desc,dt_unit
+1,T,Total Construction,MLN$
+2,V,Total Private Construction,MLN$
+3,P,Total Public Construction,MLN$
+4,MPCT,Monthly Percent Change for Total Construction,PCT
+5,MPCV,Monthly Percent Change for Private Construction,PCT
+6,MPCP,Monthly Percent Change for Public Construction,PCT
